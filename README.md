@@ -3,6 +3,9 @@
 
 ## 文章列表
 [线性回归背后的数学](http://www.jianshu.com/p/64b1404faaa4)
+
 [如何构建一个简单的神经网络](http://www.jianshu.com/p/15db29e72719)
+
 [停下来思考下神经网络](http://www.jianshu.com/p/905a55b1b744)
+
 [神经网络实践之情感分类](http://www.jianshu.com/p/fd940bc4eb98)
