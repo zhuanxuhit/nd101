@@ -11,3 +11,5 @@
 [神经网络实践之情感分类](http://www.jianshu.com/p/fd940bc4eb98)
 
 [在Python中实现你自己的推荐系统](https://github.com/zhuanxuhit/nd101/blob/master/2.live_code/How-to-Predict-Music-You-Love/recommend1.ipynb)
+
+[数据处理之PCA](http://www.jianshu.com/p/f96191f40bba)
