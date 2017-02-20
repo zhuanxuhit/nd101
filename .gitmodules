@@ -1,3 +1,6 @@
 [submodule "1.Intro_to_Deep_Learning/1.How_to_Make_a_Prediction/linear_regression_demo"]
 	path = 1.Intro_to_Deep_Learning/1.How_to_Make_a_Prediction/linear_regression_demo
 	url = https://github.com/llSourcell/linear_regression_demo.git
+[submodule "tensorFlowLearning"]
+	path = tensorFlowLearning
+	url = git@github.com:zhuanxuhit/deep-learning.git
