@@ -21,3 +21,5 @@
 
 [Chris McCormick](http://mccormickml.com/)
 
+## numpy
+[Array Broadcasting in numpy](http://scipy.github.io/old-wiki/pages/EricsBroadcastingDoc)
