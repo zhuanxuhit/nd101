@@ -14,6 +14,7 @@
 
 [数据处理之PCA](http://www.jianshu.com/p/f96191f40bba)
 
+[1 x 1 卷积的作用](https://github.com/zhuanxuhit/nd101/blob/master/1.Intro_to_Deep_Learning/6.How_to_Make_an_Image_Classifier/one-by-one-convolution.ipynb)
 
 
 ## 一些博客
