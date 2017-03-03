@@ -16,6 +16,8 @@
 
 [1 x 1 卷积的作用](https://github.com/zhuanxuhit/nd101/blob/master/1.Intro_to_Deep_Learning/6.How_to_Make_an_Image_Classifier/one-by-one-convolution.ipynb)
 
+[怎么构建一个CNN网络来识别MNIST](https://github.com/zhuanxuhit/nd101/blob/master/1.Intro_to_Deep_Learning/6.How_to_Make_an_Image_Classifier/demonotes.ipynb)
+
 
 ## 一些博客
 [David 9的博客 — 不怕"过拟合"](http://nooverfit.com/)
