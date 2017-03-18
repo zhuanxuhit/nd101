@@ -28,3 +28,6 @@
 
 ## numpy
 [Array Broadcasting in numpy](http://scipy.github.io/old-wiki/pages/EricsBroadcastingDoc)
+
+## 经典
+[Adagrad](http://seed.ucsd.edu/mediawiki/images/6/6a/Adagrad.pdf)
