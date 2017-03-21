@@ -42,3 +42,6 @@
 
 开山论文[A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576)
 
+## tensforflow
+[cs20si](http://web.stanford.edu/class/cs20si/)
+
