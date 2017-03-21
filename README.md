@@ -18,8 +18,11 @@
 
 [怎么构建一个CNN网络来识别MNIST](https://github.com/zhuanxuhit/nd101/blob/master/1.Intro_to_Deep_Learning/6.How_to_Make_an_Image_Classifier/demonotes.ipynb)
 
-
 [word2vec的skip-gram实现](https://github.com/zhuanxuhit/deep-learning/blob/fabccb831d68d0ae284114ed1552211b3d374ef2/embeddings/Skip-Gram%20word2vec.ipynb)
+
+[如何生成一幅艺术作品](http://www.jianshu.com/p/b22eb00ddeb7)
+
+
 
 ## 一些博客
 [David 9的博客 — 不怕"过拟合"](http://nooverfit.com/)
