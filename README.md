@@ -22,6 +22,7 @@
 
 [如何生成一幅艺术作品](http://www.jianshu.com/p/b22eb00ddeb7)
 
+[lstm的理解](https://github.com/zhuanxuhit/nd101/blob/master/1.Intro_to_Deep_Learning/9.How_to_Generate_Music/LSTM.ipynb)
 
 
 ## 一些博客
