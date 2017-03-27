@@ -4,3 +4,6 @@
 [submodule "tensorFlowLearning"]
 	path = tensorFlowLearning
 	url = git@github.com:zhuanxuhit/deep-learning.git
+[submodule "2.live_code/How_to_Generate_Music_with_Tensorflow/MusicGenerator"]
+	path = 2.live_code/How_to_Generate_Music_with_Tensorflow/MusicGenerator
+	url = https://github.com/Conchylicultor/MusicGenerator.git
