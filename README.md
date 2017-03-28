@@ -25,10 +25,14 @@
 [lstm的理解](https://github.com/zhuanxuhit/nd101/blob/master/1.Intro_to_Deep_Learning/9.How_to_Generate_Music/LSTM.ipynb)
 
 
+[min char rnn](https://github.com/zhuanxuhit/nd101/blob/master/1.Intro_to_Deep_Learning/7.How_to_Predict_Stock_Prices_Easily/min-char-rnn.ipynb)
+
 ## 一些博客
 [David 9的博客 — 不怕"过拟合"](http://nooverfit.com/)
 
 [Chris McCormick](http://mccormickml.com/)
+
+[Andrej Karpathy blog](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 
 ## numpy
 [Array Broadcasting in numpy](http://scipy.github.io/old-wiki/pages/EricsBroadcastingDoc)
