@@ -27,6 +27,8 @@
 
 [min char rnn](https://github.com/zhuanxuhit/nd101/blob/master/1.Intro_to_Deep_Learning/7.How_to_Predict_Stock_Prices_Easily/min-char-rnn.ipynb)
 
+[如何自动产生文章](https://github.com/zhuanxuhit/nd101/blob/master/2.live_code/How_to_Generate_Your_Own_Wikipedia_Articles/democodewiki.ipynb)
+
 ## 一些博客
 [David 9的博客 — 不怕"过拟合"](http://nooverfit.com/)
 
