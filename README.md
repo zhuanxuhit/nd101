@@ -29,6 +29,8 @@
 
 [如何自动产生文章](https://github.com/zhuanxuhit/nd101/blob/master/2.live_code/How_to_Generate_Your_Own_Wikipedia_Articles/democodewiki.ipynb)
 
+[seq2seq模型1](http://www.jianshu.com/p/779e022a8644)
+
 ## 一些博客
 [David 9的博客 — 不怕"过拟合"](http://nooverfit.com/)
 
