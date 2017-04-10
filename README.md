@@ -36,7 +36,16 @@
 
 [Andrej Karpathy blog](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 
+
+
+## 数学
+
+[Basics of Probability for Data Science explained with examples](https://www.analyticsvidhya.com/blog/2017/02/basic-probability-data-science-with-examples/)
+
+
+
 ## numpy
+
 [Array Broadcasting in numpy](http://scipy.github.io/old-wiki/pages/EricsBroadcastingDoc)
 
 ## 经典
