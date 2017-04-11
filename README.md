@@ -31,6 +31,9 @@
 
 [seq2seq模型1](http://www.jianshu.com/p/779e022a8644)
 
+
+[seq2seq模型之raw_rnn](https://github.com/zhuanxuhit/nd101/blob/master/1.Intro_to_Deep_Learning/11.How_to_Make_a_Language_Translator/2-seq2seq-advanced.ipynb)
+
 ## 一些博客
 [David 9的博客 — 不怕"过拟合"](http://nooverfit.com/)
 
