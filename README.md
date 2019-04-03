@@ -41,6 +41,8 @@
 
 [Andrej Karpathy blog](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 
+## 特征工程
+[My secret sauce to be in top 2% of a kaggle competition](https://towardsdatascience.com/my-secret-sauce-to-be-in-top-2-of-a-kaggle-competition-57cff0677d3c)
 
 
 ## 数学
